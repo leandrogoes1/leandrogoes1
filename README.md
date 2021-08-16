@@ -9,6 +9,9 @@ Saudações, me chamo Leando Góes 👋
 
 <div>
   <a href="https://github.com/leandrogoes1">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?leandrogoes1=anuraghazra&theme=dark&show_icons=true"/>
-</div>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrogoes1&theme=dark&show_icons=true&title_color=999911"/>
+  
+    </div>
+  
+  ##
+  
