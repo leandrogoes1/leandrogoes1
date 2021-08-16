@@ -7,4 +7,8 @@ Saudações, me chamo Leando Góes 👋
 - 🤔 Busco ajuda dos amigos na plataforma. Suas dicas, vídeos e sugestões serão de grande valia.
 - 💬 Quer me falar algo? Deixe uma mensagem, ficarei grato por sua opinões.
 
-##
+<div>
+  <a href="https://github.com/leandrogoes1">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?leandrogoes1=anuraghazra&theme=dark&show_icons=true"/>
+</div>
+
